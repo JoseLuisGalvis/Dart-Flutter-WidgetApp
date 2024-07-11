@@ -1,0 +1,27 @@
+[
+  {
+    "name": "AnimatedBuilder",
+    "description": "Construye un widget hijo utilizando una instancia de Animation",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "AnimatedCrossFade",
+    "description": "Realiza una transición cruzada entre dos widgets hijos, con una animación personalizable.",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "AnimatedOpacity",
+    "description": "Cambia la opacidad de un widget hijo de manera animada.",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "SlideTransition",
+    "description": "Realiza una transición de deslizamiento entre dos posiciones, con una animación personalizable.",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "TweenAnimationBuilder",
+    "description": "Construye un widget hijo utilizando una instancia de Tween y una Animation,",
+    "image": "assets/images/animation.png"
+  }
+]

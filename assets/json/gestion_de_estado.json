@@ -1,0 +1,27 @@
+[
+  {
+    "name": "StatefulWidget",
+    "description": "Estado mutable que se puede cambiar después de que se ha construido",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "ValueListenableBuilder",
+    "description": "Se reconstruye cuando el valor de un ValueListenable cambia.",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "AnimatedBuilder",
+    "description": "Se reconstruye cuando el valor de un Animation cambia.",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "StreamBuilder",
+    "description": "Se reconstruye cuando el valor de un Stream cambia.",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "FutureBuilder",
+    "description": "Se reconstruye cuando el valor de un Future cambia.",
+    "image": "assets/images/animation.png"
+  }
+]

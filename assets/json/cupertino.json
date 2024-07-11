@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CupertinoPage",
+    "description": "Representa una página en una aplicación de estilo Cupertino.",
+    "image": "assets/images/circle.png"
+  },
+  {
+    "name": "CupertinoTabBar",
+    "description": "Muestra una barra de tabs en la parte inferior de la pantalla, usada en Apps Cupertino.",
+    "image": "assets/images/circle.png"
+  },
+  {
+    "name": "CupertinoTabView",
+    "description": "Muestra una vista de tabs que se puede navegar mediante una barra de tabs.",
+    "image": "assets/images/circle.png"
+  },
+  {
+    "name": "CupertinoSlider",
+    "description": "Muestra un control deslizante que permite seleccionar un valor en un rango.",
+    "image": "assets/images/circle.png"
+  },
+  {
+    "name": "CupertinoSwitch",
+    "description": "Demuestra un interruptor que permite activar o desactivar una opción.",
+    "image": "assets/images/circle.png"
+  }
+]

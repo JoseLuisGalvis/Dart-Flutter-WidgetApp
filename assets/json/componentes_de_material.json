@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Widget1",
+    "description": "Descripción del Widget1",
+    "image": "imagen1.png"
+  },
+  {
+    "name": "Widget2",
+    "description": "Descripción del Widget2",
+    "image": "imagen2.png"
+  }
+]

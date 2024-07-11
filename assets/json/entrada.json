@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TextField",
+    "description": "Permite al usuario ingresar texto en una sola línea.",
+    "image": "imagen1.png"
+  },
+  {
+    "name": "TextFormField",
+    "description": "Combina un TextField con una forma para validar y procesar la entrada del usuario.",
+    "image": "imagen2.png"
+  },
+  {
+    "name": "Checkbox",
+    "description": "Permite al usuario seleccionar una opción booleana.",
+    "image": "imagen1.png"
+  },
+  {
+    "name": "Radio",
+    "description": "Permite seleccionar una opción de una lista de opciones mutuamente excluyentes.",
+    "image": "imagen2.png"
+  },
+  {
+    "name": "Slider",
+    "description": "Permite seleccionar un valor dentro de un rango mediante un control deslizante.",
+    "image": "imagen1.png"
+  }
+]

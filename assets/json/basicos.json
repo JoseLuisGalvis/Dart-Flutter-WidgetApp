@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Text",
+    "description": "Widget que muestra un texto.",
+    "image": "assets/images/svg.png"
+  },
+  {
+    "name": "Icon",
+    "description": "Widget que muestra un icono.",
+    "image": "assets/images/svg.png"
+  },
+  {
+    "name": "Image",
+    "description": "Widget que muestra una imagen desde un archivo, memoria o una red.",
+    "image": "assets/images/svg.png"
+  },
+  {
+    "name": "Container",
+    "description": "Widget que combina un conjunto de propiedades de caja y widgets de caja.",
+    "image": "assets/images/svg.png"
+  },
+  {
+    "name": "Column",
+    "description": "Widget que muestra una lista de widgets en una columna vertical.",
+    "image": "imagen2.png"
+  }
+]

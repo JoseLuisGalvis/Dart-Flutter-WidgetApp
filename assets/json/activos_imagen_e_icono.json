@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Image",
+    "description": "Muestra una imagen desde un archivo, memoria o una red, con opciones de ajuste de tamaño y escalado.",
+    "image": "assets/images/image.png"
+  },
+  {
+    "name": "Icon",
+    "description": "Muestra un ícono desde un conjunto de iconos predeterminados o personalizados, con opciones de tamaño y color.",
+    "image": "assets/images/icon.png"
+  },
+  {
+    "name": "FadeInImage",
+    "description": "Muestra una imagen con una transición de fadeIn, útil para cargar imágenes desde una red o archivo.",
+    "image": "assets/images/fade.png"
+  },
+  {
+    "name": "FadeInImage",
+    "description": "Muestra una imagen circular, comúnmente utilizado para mostrar avatares de usuarios o perfiles.",
+    "image": "assets/images/circle.png"
+  },
+  {
+    "name": "SvgPicture",
+    "description": "Muestra una imagen vectorial en formato SVG, permitiendo renderizar gráficos vectoriales escalables.",
+    "image": "assets/images/svg.png"
+  }
+]
+
+

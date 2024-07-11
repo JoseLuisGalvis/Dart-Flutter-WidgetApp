@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Container",
+    "description": "Layout Widget",
+    "image": "assets/images/animation.png"
+  },
+  {
+    "name": "Card",
+    "description": "Layout Widget",
+    "image": "assets/images/animation.png"
+  }
+]

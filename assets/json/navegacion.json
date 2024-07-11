@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Navigator",
+    "description": "Permite gestionar rutas y páginas en una aplicación.",
+    "image": "assets/images/fade.png"
+  },
+  {
+    "name": "MaterialApp",
+    "description": "Proporciona una implementación de alto nivel de una aplicación de material de diseño.",
+    "image": "assets/images/fade.png"
+  },
+  {
+    "name": "BottomNavigationBar",
+    "description": "Muestra una barra de navegación en la parte inferior de la pantalla.",
+    "image": "assets/images/fade.png"
+  },
+  {
+    "name": "WillPopScope",
+    "description": "Permite interceptar y manejar eventos de retroceso en una ruta.",
+    "image": "assets/images/fade.png"
+  },
+  {
+    "name": "Drawer",
+    "description": "Muestra una hoja deslizable desde el lado izquierdo de la pantalla, comúnmente utilizado para mostrar opciones de navegación.",
+    "image": "assets/images/fade.png"
+  }
+]
