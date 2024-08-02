@@ -129,6 +129,10 @@ class _WidgetCategoryPageState extends State<WidgetCategoryPage> {
   }
 }
 
+
+
+
+
 class CategoryCardWidget extends StatelessWidget {
   final String title;
   final VoidCallback onPressed;
